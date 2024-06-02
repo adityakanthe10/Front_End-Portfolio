@@ -13,7 +13,6 @@ This is the source code for my personal portfolio website. The website is design
 - [Custom Cursor](#custom-cursor)
 - [Responsive Design](#responsive-design)
 - [Contact](#contact)
-- [License](#license)
 
 ## Link
 
